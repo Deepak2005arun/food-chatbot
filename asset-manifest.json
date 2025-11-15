@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-chatbot/static/css/main.9e9e3e37.css",
+    "main.js": "/food-chatbot/static/js/main.41a19c1f.js",
+    "static/js/453.7f593ae1.chunk.js": "/food-chatbot/static/js/453.7f593ae1.chunk.js",
+    "index.html": "/food-chatbot/index.html",
+    "main.9e9e3e37.css.map": "/food-chatbot/static/css/main.9e9e3e37.css.map",
+    "main.41a19c1f.js.map": "/food-chatbot/static/js/main.41a19c1f.js.map",
+    "453.7f593ae1.chunk.js.map": "/food-chatbot/static/js/453.7f593ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9e3e37.css",
+    "static/js/main.41a19c1f.js"
+  ]
+}
